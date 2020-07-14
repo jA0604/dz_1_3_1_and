@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">dz_1_3_1</string>
+    <string name="app_title">Комплексная система \n мониторинга здоровья</string>
+    <string name="app_autor">Акбар Пардаев</string>
+    <string name="str_save">Save</string>
+    <string name="str_name">Name</string>
+    <string name="str_age">Age</string>
+    <string name="str_btn_heals_page">Health</string>
+    <string name="str_btn_life_page">Life</string>
+    <string name="str_logo">Logo</string>
+    <string name="str_press">Давление</string>
+    <string name="str_upper">Верхнее</string>
+    <string name="str_lower">Нижнее</string>
+    <string name="str_press_bckgrnd">Pressure</string>
+    <string name="str_pulse">Пульс</string>
+    <string name="str_takhikard">Тахикардия</string>
+    <string name="str_date">Дата замера</string>
+    <string name="str_time">Время замера</string>
+    <string name="str_btn_person_page">Person</string>
+    <string name="str_weight">Вес</string>
+    <string name="str_step_count">Количество шагов</string>
+
+    <string name="msg_empty_fill">Поля не должны быть пустыми</string>
+    <string name="msg_non_number">Значение параметра должно быть числовым</string>
+
+</resources>

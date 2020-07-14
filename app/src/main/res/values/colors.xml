@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorPrimaryIndigo">#3F51B5</color>
+    <color name="colorPrimaryDarkIndigo">#303F9F</color>
+    <color name="colorPrimaryLightIndigo">#9FA8DA</color>
+
+    <color name="colorSecondaryLime">#CDDC39</color>
+    <color name="colorSecondaryDarkLime">#AFB42B</color>
+    <color name="colorSecondaryLightLime">#E6EE9C</color>
+
+    <color name="colorBackgroundIndigo">#E8EAF6</color>
+</resources>
